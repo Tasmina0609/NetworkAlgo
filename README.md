@@ -6,5 +6,7 @@ Dataset available in "cities in az.csv"(sample of cities)  and "airports.csv"(sa
 
 Objective:
     Using both datasets plot the graph 
+    
     Create a function to find any path from a given origin to a given destiny (not necessarily optimal)
+    
     Determine the cost of the achieved path.
