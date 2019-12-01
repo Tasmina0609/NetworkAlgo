@@ -5,10 +5,18 @@ Intro to Graph Theory
  
 Dataset available in "cities in az.csv"(sample of cities)  and "airports.csv"(sample of flights) 
 
-Objective:
+
+Objective of NetworkGraph_PW1_.ipynb
 
     - Using both datasets plot the graph 
     
     - Create a function to find any path from a given origin to a given destiny (not necessarily optimal)
     
     - Determine the cost of the achieved path.
+    
+    
+   
+  
+Objective of  NetworkGraph_PW2_.ipynb
+
+     - Applying shortest path to retrieve without weight and then with weight
