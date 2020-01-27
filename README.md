@@ -24,4 +24,4 @@ Objective of  NetworkGraph_PW2_.ipynb
    
 Objective of  Network_Project
     
-     - Finding the shortest path between airports by applying several algorithms(Dijkstra,BFS,MST-Kruskal's algo)
+     - Finding the shortest path between airports by applying several algorithms(Dijkstra,BFS,MST-Kruskal's algo,e.t.c)
