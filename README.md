@@ -20,3 +20,8 @@ Objective of NetworkGraph_PW1_.ipynb
 Objective of  NetworkGraph_PW2_.ipynb
 
      - Applying shortest path to retrieve without weight and then with weight
+     
+   
+Objective of  Network_Project
+    
+     - Finding the shortest path between airports by applying several algorithms(Dijkstra,BFS,MST-Kruskal's algo)
